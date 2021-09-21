@@ -1,0 +1,14 @@
+{
+  "message": "Hello",
+  "required": "Required",
+  "search": "Search",
+  "city": "City",
+  "windMetric": "m/s",
+  "cityHint": "Type and press Enter",
+  "placeholderCity": "Select city",
+  "minTemp": "Min temperature",
+  "maxTemp": "Max temperature",
+  "feelsTemp": "Feels like",
+  "notExist": "{entity} Doesn't exist",
+  "close": "Close"
+}
