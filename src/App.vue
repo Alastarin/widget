@@ -13,6 +13,7 @@
       <v-btn-toggle
         color="primary"
         dense
+        mandatory
         v-model="$i18n.locale"
       >
         <v-btn value="en">
