@@ -1,0 +1,14 @@
+{
+  "message": "Приветик",
+  "required": "Обязательное поле",
+  "search": "Поиск",
+  "city": "Город",
+  "windMetric": "м/с",
+  "cityHint": "Введите и нажмите Enter",
+  "placeholderCity": "Выберите город",
+  "minTemp": "Минимальная температура",
+  "maxTemp": "Максимальная температура",
+  "feelsTemp": "Ощущается как",
+  "notExist": "{entity} не существует",
+  "close": "Закрыть"
+}
